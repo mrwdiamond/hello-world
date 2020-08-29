@@ -1,7 +1,7 @@
 print("Hello World!")
-for a in range(1,10):
-    print("Hello world")
-    
-print("end")
+for a in range(10):
+    print(a, " Hello world")
+   
+print("End")
 
 
